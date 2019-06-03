@@ -3,9 +3,17 @@
 }
 img {
   width: 600px;
-  height: auto;
+  height: 337px;
 }
 .words {
   color: purple;
   font-size: 4em;
+}
+
+#helloWordsAndPic {
+  display: block;
+}
+
+#goodbyeWordsAndPic{
+  display: none;
 }
